@@ -7,7 +7,8 @@ const nextConfig = {
       "platform-lookaside.fbsbx.com",
       "firebasestorage.googleapis.com",
       "lh3.googleusercontent.com",
-      "graph.facebook.com"
+      "graph.facebook.com",
+      "pbs.twimg.com"
     ],
   }
 }
